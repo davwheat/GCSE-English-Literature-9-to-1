@@ -2,7 +2,7 @@
 
 ## There are three kinds of imagery to look out for
 
-### Similies...
+### Similes...
 - "I had else been perfect; / __Whole as the marble, founded as the rock__" - Macbeth is saying he was solid and grounded, like rock.
 - "Now does he feel his title / Hang loose about him, __like a giant's robe / Upon a dwarfish thief__" - Here Angus compares Macbeth to a "thief" because he has stolen power from Duncan. Angus is saying Macbeth's responsibilities are too much for him, like the clothes are too big for him to fill.
 
@@ -24,7 +24,7 @@
 - This is further reflected by the "strange" and "unnatural" events that take place after his death = "by the clock, 'tis day, / And yet dark night strangles the travelling lamp". This image shows that darkness and evil (Macbeth) have overcome the natural goodness and light (Duncan).
 
 ## Nature represents the correct order of the world
-- The way nature behaves shows the state of events - Duncan's murder disrupts the natural order. As well as "night's predominance", horses have "Turned wild in nature" and eaten eachother.
+- The way nature behaves shows the state of events - Duncan's murder disrupts the natural order. As well as "night's predominance", horses have "Turned wild in nature" and eaten each other.
 - Duncan's murder is symbolised by the image: "A falcon, towering in her pride of place, / Was by a mousing owl hawked at and killed". It's unnatural for an owl to kill a falcon, so this emphasises the fact that Duncan's murder has disrupted the natural order of things.
 - Plant imagery is used throughout the play - Duncan compares Macbeth and Banquo to plants that he will harvest. This image is continued in Act 5, Scene 2, but now Macbeth is compared to the "weeds" and Malcolm is the "sovereign flower". This contrast shows how corrupt Macbeth has become.
 
@@ -48,6 +48,5 @@
 ## Everyday life can be disrupted by guilt
 - Sleep symbolises a clear conscience - so lack of sleep suggests guilt. For a guilty mind, sleep brings "wicked dreams". After murdering Duncan, Macbeth worries that he'll never be able to sleep again. - "Methought I heard a voice cry, 'Sleep no more! / Macbeth does murder sleep'"
 - Lady Macbeth's sleepwalking is a sign of her guilt - she can no longer sleep peacefully.
-- It is also suggested that Scotland can't eat or sleep - being unable to fulfill these basic needs shows how badly Macbeth's rule has affected the country. - "Give to our tables meat, sleep to our nights, / Free from our feasts and banquets bloody knives".
+- It is also suggested that Scotland can't eat or sleep - being unable to fulfil these basic needs shows how badly Macbeth's rule has affected the country. - "Give to our tables meat, sleep to our nights, / Free from our feasts and banquets bloody knives".
 - Clothing is symbolic too - at first, Macbeth is reluctant to wear the "borrowed robes" of the Thane of Cawdor. Banquo reinforces this, saying that the "New honours" are like "strange garments".
-
