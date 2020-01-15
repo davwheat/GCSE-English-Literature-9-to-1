@@ -12,6 +12,6 @@
 - Other characters speak using paradoxes, e.g. Macbeth says "Nothing is / But what is not". These paradoxes create uncertainty - they show that nobody can tell what's real.
 
 ## Some characters trust too much in appearances
-- Duncan trusts Macbeth and dies for it, even though he made the same mistake by trusting the disloya Thane of Cawdor. When this happens, Duncan says, "There's no art / To find the mind's contruction in the face" - he thinks that there's no way of telling what someone is really like.
-- Macbeth knows that reality and appearances don't always match up, but he completely trusts the Witches' prophecies. This leads to his downfal.
-- In contrast, Malcolm is immediately sceptical that Duncan was murdered by his servents and suspects one of the thanes: "To show an unfelt sorrow is an office / Which the false man does easy". His awareness of what "false" men can do causes him to flee and probably saves his life.
+- Duncan trusts Macbeth and dies for it, even though he made the same mistake by trusting the disloyal Thane of Cawdor. When this happens, Duncan says, "There's no art / To find the mind's construction in the face" - he thinks that there's no way of telling what someone is really like.
+- Macbeth knows that reality and appearances don't always match up, but he completely trusts the Witches' prophecies. This leads to his downfall.
+- In contrast, Malcolm is immediately sceptical that Duncan was murdered by his servants and suspects one of the thanes: "To show an unfelt sorrow is an office / Which the false man does easy". His awareness of what "false" men can do causes him to flee and probably saves his life.
