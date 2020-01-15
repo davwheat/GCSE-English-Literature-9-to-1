@@ -19,5 +19,5 @@ Macbeth sees Banquo's ghost which gives him a "strange infirmity". Nobody else c
 Lady Macbeth is driven mad as she imagines that her hands will "ne'er be clean" of Duncan's blood. Her guilt is so great that she kills herself.
 
 - The visions are ambiguous. They could be real or imaginary. 
-- The vidions fill the characters who see them with fear. Macbeth is "blanched with fear" by Banquo's ghost and his language is agitated and nervous: "Prithee, see there! Behold, look, lo!". His fear has made him lose control of his speech. Macbeth calls his own reaction a "strange infirmity" - it links to other signs of madness later in the play.
-- Lady Macbeth's language when she sleepwalks is desperate, "O, o, o!", and shows that she's disturbed by the cision of blood on her hands. The Doctor says that her heart is "sorely charged" - he sees that the vision is the result of her guilty conscience.
+- The visions fill the characters who see them with fear. Macbeth is "blanched with fear" by Banquo's ghost and his language is agitated and nervous: "Prithee, see there! Behold, look, lo!". His fear has made him lose control of his speech. Macbeth calls his own reaction a "strange infirmity" - it links to other signs of madness later in the play.
+- Lady Macbeth's language when she sleepwalks is desperate, "O, o, o!", and shows that she's disturbed by the vision of blood on her hands. The Doctor says that her heart is "sorely charged" - he sees that the vision is the result of her guilty conscience.
