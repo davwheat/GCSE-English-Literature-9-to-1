@@ -1,7 +1,7 @@
 # Ambition
 
 ## Ambition is the main theme in Macbeth
-- Ambition moticates Macbeth to commit terrible deeds. It changes him from a "valiant" soldier to a "dead butcher".
+- Ambition motivates Macbeth to commit terrible deeds. It changes him from a "valiant" soldier to a "dead butcher".
 - The play shows that ambition is dangerous because it can quickly spiral out of control. Macbeth considers the morality of killing Duncan for a long time but doesn't hesitate about killing Banquo.
 - Once Macbeth starts killing, he has to kill more people to get what he wants and to make his position secure. It shows ambition can make people ruthless and selfish.
 - Both Macbeth and Lady Macbeth are eventually destroyed by their ambition, so the play can be read as a warning against ambition that isn't balanced by reason or morals.
