@@ -26,12 +26,12 @@ Most of Act 5 takes place as Malcolm's army advances, which highlights the viole
 By making the characters describe what they can see or hear, Shakespeare makes the scenes more vivid - it helps the audience imagine what's happening, especially as there wouldn't have been many props.
 - When Macduff has just discovered Duncan's body, he says it will "destroy your sight / With a new Gorgon". This emphasises the horror of the discovery - he feels he has gone blind from seeing something so terrible.
 - Earlier in the play, Duncan's arrival is introduces by a "Flourish". This contrasts with the "hideous trumpet" and "alarum bell" that announce his death, and shows how the atmosphere has changed.
-- On the night of Duncan's murder, Lennox hears "strange screams of death", which create a dark, frightening atmoshphere.
+- On the night of Duncan's murder, Lennox hears "strange screams of death", which create a dark, frightening atmosphere.
 - The army approaches to the sound of a "Drum". The sounds of the battle highlight the violence that happens throughout the play.
 
 ## Unnatural and supernatural events create tension
 - Seemingly supernatural events, such as the dagger Macbeth sees and Banquo's ghost, create a tense, uneasy atmosphere. It's uncomfortable as its not clear if these visions exist or if Macbeth is going mad.
-- After Duncan's murder, there are a number of "unnatural" events, e.g. horses eating eachother and day turning to "dark night". This creates a troubled atmosphere, because the natural order has been disturbed.
+- After Duncan's murder, there are a number of "unnatural" events, e.g. horses eating each other and day turning to "dark night". This creates a troubled atmosphere, because the natural order has been disturbed.
 - Every appearance of the Witches has a dark, spooky atmosphere. It's not just the setting that creates this mood - their "imperfect" speech and "Filthy" appearance add to the atmosphere.
 
 ## The Porter provides light relief - but also increases the tension
