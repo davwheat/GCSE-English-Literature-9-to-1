@@ -7,9 +7,9 @@
 - Fear is often experienced in reaction to uncontrollable forces(nature or war).
 - Pride stems from power and often leads to misuse of said power.
 
-### Anger aimed at society
+## Anger aimed at society
 
-#### London
+### London
 
 The narrator is angry about the society he sees as walks the streets of London.
 
@@ -17,7 +17,7 @@ The use of rhetorical devices gets the reader to share his anger. The repetition
 
 The images of the "black'ning church" and "blood down the palace walls" shows his anger at institutions like the Church and the government/monarchy for not improving things.
 
-#### Checking Out Me History
+### Checking Out Me History
 
 The speaker is angry at British society for giving him a biased eduction in his own country.
 
@@ -29,9 +29,9 @@ His anger leads him to juxtapose the British pantomime and nursery rhyme charact
 
 He has made these comparisons ridiculous on purpose to emphasise his frustration with "Dem".
 
-### Guilt as a result of war
+## Guilt as a result of war
 
-#### Remains
+### Remains
 
 The soldiers guilt seems to come from his doubt as to whether the looter was truly a threat. The repetition of "probably armed, possibly not" shows that he is replaying the events to try and work out if his actions were justified.
 
@@ -41,7 +41,7 @@ The potential reference to Lady Macbeth in the final line hints the guilt is dri
 
 The shift of voice from first person plural "we" to first person singular "I" shows that the soldier believes he is personally responsible for the death.
 
-#### War Photographer
+### War Photographer
 
 There is a sense that he photographer feels guilty about the ease of life in England. The phrase "Ordinary pain which simple weather can dispel", shows how different life in England is to the war zone.
 
