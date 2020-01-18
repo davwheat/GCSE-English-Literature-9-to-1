@@ -6,23 +6,23 @@
 - It is usually personified in poetry to show its effects in human terms.
 - It has the power to change humans and change their decisions.
 
-### Nature as an enemy
+## Nature as an enemy
 
-#### Exposure
+### Exposure
 
 Nature is shown as the enemy to the soldiers in the trenches. It has "_merciless iced east winds that knive_" them and snowflakes that "_come feeling_" for their faces with "_fingering stealth_".
 
 The men are not expecting to die from the gunfire, but from the exposure to the elements.
 
-#### Storm on the Island
+### Storm on the Island
 
 The island is inhabitable because nothing can grow there. The earth is "_wizened_" and there are no trees or "_stacks_".
 
 What the islanders really fear is the nature. Words that connote war are used to suggest that the island is under attack from nature. It's "_bombarded by the empty air_" and the wind "_strafes_" it.
 
-### Natures effect on humans
+## Natures effect on humans
 
-#### Kamikaze
+### Kamikaze
 
 The beauty of nature has a effect on the pilot that is one of the reasons why he flow back home.
 
@@ -30,7 +30,7 @@ The dangers from nature are also shown by the "_turbulent inrush_" of waves and 
 
 This shows humans are at the mercy of nature and the "_turbulent_" waves could crush a boat at any time.
 
-#### The Prelude
+### The Prelude
 
 This poem shows the true beauty of nature with the "_circles glittering_" on the lake and the "_sparkling light_".
 
@@ -42,15 +42,15 @@ The power of the mountain also convinces the speaker to return the stolen boat s
 
 The phrase "_a trouble to my dreams_" at the end of the poem, shows how nature has changed the speaker from his experience and the "_pleasant images_" of nature, have now been replace with more sinister ones.
 
-### Other poems
+## Other poems
 
-#### Ozymandias
+### Ozymandias
 
 Nature is stronger then humans.
 
 The power of nature outlives the ruler.
 
-#### Tissue
+### Tissue
 
 Nature is stronger than humans.
 
