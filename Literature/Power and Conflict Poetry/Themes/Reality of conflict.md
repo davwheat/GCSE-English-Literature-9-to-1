@@ -1,34 +1,53 @@
 # Reality of conflict
 
 ## Overview
-- Poems set in the heat of the battle create vivid images of what the soldiers are experiencing.
-- Poems set after a battle are more detached from the reality
 
-### Horror of war as it happens
-- #### Exposure
-    - Bleak imagery is used to show the pain the men are in, the description of the frost is a example of this "puckering foreheads crisp". This forces the reader to imageing their flesh freezing.
-    - Also the comparison of the wind to the "twitching agonies of men" creates a vivid picture of the condition the men are in.
-    - The reality of war throws out all patriotism and heroism, the men "cringe in the holes" like scared animals.
-    - Rehitorical questions "what are we doing here?" emphasises the pointlessness of their suffering.
-    - The hopeless tone of the poem also sugges that the men belive they have a little chance of survival, they have also seem to accepted that they will never visit their family or friends again.
+- People experience loss when they're separated from someone of something they love
+- An scarcity of hope can lead to negativity and despair.
 
-- #### Bayonet Charge
-    - The solider is presented as being a confused and helpless victim, he is "running" in bewilderment. Verbs like "stumbling" suggest he has no control of his situation or actions.
-    - His disconfort is clear from his "raw-seamed hot khaki" and the way he "lugged" his rifle.
-    - The violent imagery "Bullets smacking the belly out the air" suggest that he may be in pain.
+## Conflict causes loss of people or places
 
-### Horror of war after it happened
-- #### The Charge of the Light Brigade
-    - The poem creates a noisy and frightening picture of the battle for the reader through the use of onomatopoeia "thunder'd", violent verbs "falsh'd".
-    - A relentness, galloping rhythm is used this emphasises the men's bravery.
-    - There is a distance between the speaker and the battlefield, the battle is recounted like a story and the chronological structure helps impose a order on the events.
+### Poppies
 
-- #### Remains
-    - Ware forces people to make morally complicated decisions in the spur of the moment. The solider is left with a disturbing feeling of responsibility, this is shown by the phrase "his bloody life in my bloody hands".
-    - Graphic images presents the reader with vivid images of the reality of conflict, the speaker describes seeing "broad daylight" through the bullet holes in the looter, which leave the reader with a disturbing image.
-    - The soldier is unable to remain detached for what he has done, his sleep is interrupted by repeated images of the man being "torn apart".
+The mother feels like she lost her son when he joined the army. She acts as if he had died, she leans against the "_war memorial_" and mentions "_Armistice Sunday_".
 
-### Other poems
-- #### War Photographer
-    - The photographer is not involved in the fighting but sees the reality first hand.
-    - "running children in nightmare heat" is used show the reality of conflict
+The loss she experienced is emphasised by references to textures and the senses. She traces "_the inscriptions_" on the war memorial and listens for her son's voice "_on the wind_". This shows how desperate her desire to find a connection to him is.
+
+### The Emigrée
+
+The speaker is nostalgic of the place she left as a child, the opening phrase "_There was once a country_..." frames the poem with the sense of loss she feels for the place.
+
+The loss is heightened by the fact that the speaker retains an "_impression of sunlight_", a positive idealised view of the city.
+
+There are suggestions that the conflict is the reason for the speakers loss, the city "_may be at war_", and the speaker describes herself as an "_Emigrée_" suggesting that she was forced to leave.
+
+### Kamikaze
+
+Although the pilot chose to avoid dying in the war, his family still lose him. Their shame causes them to treat him as if he "_no longer existed_".
+The daughter's statement he "_was no longer the father we loved_" hints at the emotional pain that this loss caused both the pilot and his family.
+
+## People without power often feel hopeless
+
+### London
+
+There is little positivity in the poem, the speaker refers to the lack of freedom "_the chartered Thames_", innocence "_blasts the new-born infant's tear_" and morality "_harlot's curse_".
+
+There is a lack of hope with a no sense that anyone can do anything to improve the situation.
+
+The final image of plagued "_marriage hearse_" implies the cycle of suffering will continue.
+
+### Exposure
+
+The men in the trenches have no hope of things improving. The dejected line, "_We only know war lasts, rain soaks, and clouds sag stormy_" emphasises that their lives are miserable and filled with suffering.
+
+Even thinking about home provides no hope for the men, they understand that they are "_dying_" and know that at home "_the doors are closed_" to them.
+
+## Other poems
+
+### The Charge of the Light Brigade
+
+Emphasis on the loss of life "_the six hundred_".
+
+### My Last Duchess
+
+The duke however doesn't seem to feel loss, despite the death of his wife.
