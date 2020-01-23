@@ -1,6 +1,6 @@
 # Sybil Birling
 
-Sybil's proud of her reputation and social status. She'll do anything to protect them, they are more important to her then the happiness of her children. Even when the Inspector's questioning her,
+Sybil's proud of her reputation and social status. She'll do anything to protect them, they are more important to her then the happiness of her children. Even when the Inspector's questioning her.
 
 ## She is proud of her class
 
