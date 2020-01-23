@@ -1,6 +1,6 @@
 # Arthur Birling
 
-### Arthur Birling is the head of the Birling family. He is the the boss of his own company. He even plays golf with the big shots. But he is so bothered about money and power that he can't think about anything, or anybody else.
+Arthur Birling is the head of the Birling family. He is the the boss of his own company. He even plays golf with the big shots. But he is so bothered about money and power that he can't think about anything, or anybody else.
 
 ## He is pleased with himself
 
