@@ -1,42 +1,42 @@
-# The Ghosts
+# The Cratchits are por but loving
 
-## The three ghosts are different - but they all help Scrooge
-- Dickens characterises the three ghosts very differently, which adds interest and variety to the story. The first ghost is a contradictory figure, who's both strong and gentle at the same time. The second ghost is a cheerful, jolly giant - and in contrast the third ghost is silent and ominous.
-- The ghosts exist outside the boundaries of human time, and they show Scrooge the visions of the past, present and future. This gives the novella a magical, dream-like mood.
-- Scrooge learns from each of his encounters with the ghosts. They make him realise what the impact and consequences of his past and present behaviour could be.
+- Mr and Mrs Cratchit have six children - Martha, Peter, Belinda, two "_smaller Cratchits_" and Tiny Tim. Except for Martha, they all live in the same four-room house. They're loving and cheerful despite their poverty.
+- Dickens' depiction of the Cratchits reminds the reader that poor people are not just a social problem - they're individuals and families who share joys, loves, sorrows and fears like anyone else.
 
-## The Ghost of Christmas Past represents memory and truth
-- The Ghost of Christmas Past's appearance is a strange mixture of child-like and aged. It's connected, through Scrooge's memory, to different stages of Scrooge's life.
-- A "bright, clear jet of light" shines from its head - this light could symbolise the truth that can be found in memories.
-- The ghost is strong but quiet. Its voice is "low" as if "it were at a distance" - like it's speaking to Scrooge from somewhere far away, or long ago. This emphasises the spirit's connection to Scrooge's distant past.
-- The ghost helps the reader sympathise with Scrooge by showing us that parts of his childhood were miserable, and that he wasn't always so cold and unfeeling.
+# Bob Cratchit is Scrooge's employee
 
-## The first spirit is forceful to help Scrooge change
-- The spirit makes Scrooge explain the things that he realises when he sees the visions of his past. For example its insistent questions ("What is the matter?... Something, I think?") force Scrooge to explain what he's realised after Fezziwig's party - that sometimes it's important to spend money generously, because of the happiness it gives to others.
-- The memory of Belle is "torture" for Scrooge - he begs the ghost to let him leave, but the spirit is too strong for him - it "pinioned him in both his arms" and "forced" him to watch. The ghost's actions seem cruel, but its actions help Scrooge to learn.
-- The Ghost of Christmas Past is:
-  - forceful: "But the relentless Ghost pinioned him in both his arms, and forced him to observe"
-  - questioning: "Is that so much that he deserves this praise?"
-  - mysterious: "It was a strange figure"
-  
-## The Ghost of Christmas Present generously helps others
-- The Ghost of Christmas Present is compassionate. It sprinkles incense and water from its torch as a blessing, and it restores the "good humour" of angry people so that they can enjoy Christmas.
-- The ghost is closely associated with abundance and generosity. For example, the torch the spirit carries resembles "Plenty's horn" (a symbol of abundance from the Greek and Roman mythology) and it generously sprinkles blessings from it on those who need it most.
-- Its scabbard has no sword in it, and it's rusted - suggesting that Christmas should be a time for peace, not fighting other people.
-- The Ghost of Christmas Present is:
-  - jolly: "there sat a jolly Giant, glorious to see"
-  - friendly: "Come in! and know me better, man!"
-  - severe: "Slander those who tell it ye!"
-  
-## The second ghost is upset about poverty
-- The Ghost of Christmas Present has "sympathy, with all poor men", and is "sorrowful" at the sight of Ignorance and Want. The spirit cares about the poor and it challenges Scrooge's previous harsh words about poverty - calling them "wicked"
-- The spirit speaks emotionally about the way that society ignores the problem of poverty. It argues that society denies the problems of ignorance and want, and suggests that ignoring these problems will eventually lead to society's "Doom".
+- As Scrooge's clerk, Bob is uncomplaining and tolerant. He works quietly in his "_dismal little cell_" of an office despite the bitter cold.
+- He's courteous and deferential - he returns Fred's greetings "_cordially_" and addresses Scrooge as "_sir_".
+- Bob is patient when Scrooge grumbles about his taking Christmas day off. Bob remains civil despite Scrooge's continually grumpy attitude.
+- His eagerness and pleasure regarding Christmas, contrast with Scrooge's attitude. Bob can't help applauding Fred's speech about the joy of Christmas - which contrasts with Scrooge's grumpy response - "_Humbug!_"
 
-## The Ghost of Christmas Yet to Come is a sinister figure
-- The Ghost of Christmas Yet to Come represents Scrooge's future. The ghost is "shrouded in a deep black garment" - its mysterious appearance implies that the future cannot be known for sure. (Also similar in appearance to the Grim Reaper)
-- The ghost is silent and intimidating. It points instead of speaking, and won't answer Scrooge's questions. This adds to the sense of mystery surrounding it.
-- It's only when Scrooge begins to beg that the ghost shows any kind of reaction at all - its "kind hand trembled". This could suggest that the ghost pities Scrooge, reminding the reader that the ghosts are trying to help him.
-- The Ghost of Christmas Yet to Come is:
-  - frightening: "Scrooge feared the silent shape so much that his legs trembled beneath him"
-  - mysterious: "it seemed to scatter gloom and mystery"
-  - resolute: "the Spirit did not stay for anything"
+# He is also a kind and devoted father
+
+- Bob is a good-humoured, playful father. He carries Tiny Tim home from the Christmas church service on his shoulders, and on his way home on Christmas Eve, he takes twenty turns sliding down an icy street - despite having no coat.
+- When he thinks Martha isn't joining the family for Christmas, he's upset. He hugs her "_to his heart's content_" when she appears. It's important to him to have all his family together at Christmas.
+- He's caring and tender with Tiny Tim, who site "_very close to his father's side_" while Bob holds his hand.
+- Despite his grief at Tim's death, he tries to be cheerful around his family, in order to spare them more pain - "_'I am very happy', said little Bob._"
+- Bob Cratchit is:
+
+  - cheerful: "_Bob was very cheerful with them_"
+  - loving: "_Bob... hugged his daughter to his heart's content_"
+  - forgiving: "_Mr Scrooge, the Founder of the Feast!_"
+
+# Mrs Cratchit is good-natured and busy
+
+- Mrs Cratchit works hard to make the Cratchit family happy. The Christmas goose has to be "_eked out_" to feed the whole family, but the Cratchits greet the food with "_universal admiration_".
+- Although she thinks Scrooge is an "_odious, stingy, hard, unfeeling man_", she still drinks to his health, because Bob wants her to and she loves him.
+- When Tim dies she's protective of her family's feelings. She speaks in a "_steady, cheerful voice_" and hides her "_weak eyes_" from Bob - she doesn't want to add to his worries.
+
+# Tiny Tim is frail - but he doesn't complain
+
+- Tiny Tim is fragile and very ill. His father carries him on his shoulders and is especially close to him, whilst Tim's siblings make sure he joins in on all the fun.
+- Dickens presents Tiny Tim as a good character by showing us his religious nature. Tim hopes people see him in church, because he wants to remind people about "_who made lame beggars walk_". He also echoes his father's toast - "_God bless us every one!_"
+- Dickens also uses Tim to show us how poverty can lead to suffering and death. If Scrooge hadn't helped the Cratchits, Tiny Tim would've died.
+
+# The Cratchit children are hard-working
+
+- Peter is Bob's "_son and heir_". He likes the idea of being rich and upper class - he proudly wears Bob's "_shirt collar_" and "_yearned to show his linen in the fashionable Parks_".
+- Bob is keen for Peter to start working as a "_man of business_", while Martha words hard as a milliner's apprentice (making hats). Dickens emphasises that the Cratchit children aren't lazy or unwilling to work, to challenge the beliefs of those who thought that poverty was often linked to laziness.
+- The Cratchits all help out with the Christmas dinner, even the youngest children - they work together as a family.
+- The young Cratchits are excitable - they "_crammed spoons into their mouths, lest they should shriek for goose_". Their excitement adds to the positivity of the Cratchit household.
